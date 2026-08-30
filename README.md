@@ -4,4 +4,4 @@ My personal portfolio website. 💻
 
 ## 🌐 Live Website
 
-[Visit My Portfolio](https://omsagarka07.github.io/Portfolio/))
+[Visit My Portfolio](https://omsagarka07.github.io/Portfolio/)
